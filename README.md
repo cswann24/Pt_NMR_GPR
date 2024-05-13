@@ -1,1 +1,1 @@
-# Pt_NMR_GPR
+# Gaussian Process Regression for 195Pt chemical shift prediction
